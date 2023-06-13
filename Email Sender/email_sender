@@ -3,10 +3,10 @@ import ssl
 import smtplib
 
 
-email_sender='aamiriqbal071@gmail.com'
-email_password='pgpqocxjlszfgequ'
+email_sender=''
+email_password=''
 
-email_reciver='tariqiqbal071@gmail.com'
+email_reciver=''
 
 subject='Ipjone Mangata hai mere ko'
 
