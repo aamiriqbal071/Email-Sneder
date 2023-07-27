@@ -10,7 +10,7 @@ email_reciver=''
 
 subject='Ipjone Mangata hai mere ko'
 
-body ="""Maaliiiikk Maaalikkkkkk!!!!!!(Rajpaal Yadav) Ek iphone dilaoo Maaaaallliiikk :("""
+body ="""Hi my name is aamir , I am in my 3rd year engg , thank you .."""
 
 em= EmailMessage()
 em['From'] = email_sender
