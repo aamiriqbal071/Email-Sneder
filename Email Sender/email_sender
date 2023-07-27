@@ -8,9 +8,9 @@ email_password=''
 
 email_reciver=''
 
-subject='Ipjone Mangata hai mere ko'
+subject='JOB Mangata hai mere ko'
 
-body ="""Hi my name is aamir , I am in my 3rd year engg , thank you .."""
+body =""" Hi my name is Aamir, I am in my 3rd year engg, thank you .."""
 
 em= EmailMessage()
 em['From'] = email_sender
